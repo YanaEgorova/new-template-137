@@ -1,0 +1,23 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #838383;
+  --text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #dbdbdb;
+  --second-brand-color: #838383;
+  --third-brand-color: #ffb800;
+  --fourth-brand-color: #f3a100;
+  --fifth-brand-color: #454142;
+
+
+  --main-font:  'PF Din Text Cond Pro';
+
+  font-size: 62.5%;
+}
