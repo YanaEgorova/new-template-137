@@ -190,10 +190,10 @@ body.error-active .error__overlay {
   display: inline-block;
   text-transform: uppercase;
   border-radius: 5rem;
-  background-image: linear-gradient(to right bottom, #fad75e, #facc4b, #fac038, #fab423, #fba801);
-  -webkit-box-shadow: 0px 5px 15px 0px rgba(252,215,100,1);
-  -moz-box-shadow: 0px 5px 15px 0px rgba(252,215,100,1);
-  box-shadow: 0px 5px 15px 0px rgba(252,215,100,1);
+  background-image: linear-gradient(to right bottom, var(--third-brand-color), var(--fourth-brand-color));
+  -webkit-box-shadow: 0px 5px 15px 0px var(--third-brand-color);
+  -moz-box-shadow: 0px 5px 15px 0px var(--third-brand-color);
+  box-shadow: 0px 5px 15px 0px var(--third-brand-color);
 } 
 
 .bold {

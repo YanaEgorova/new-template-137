@@ -257,7 +257,7 @@
         top: 30%;
         transform: translate(0, -50%);
         right: -8.3rem;
-        background-image: linear-gradient(to right bottom, #fad75e, #facc4b, #fac038, #fab423, #fba801);
+        background-image: linear-gradient(to right bottom, var(--fourth-brand-color), var(--third-brand-color));
         z-index: 2;
     }
     .policy__item:last-child .policy__sub-block::before {
