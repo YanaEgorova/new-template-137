@@ -7,6 +7,9 @@
     align-items: center;
     justify-content: space-between;
 }
+.header__wrapper .container {
+    max-width: initial !important;
+}
 .header__flex {
     display: flex;
     align-items: center;
